@@ -1,0 +1,12 @@
+{
+  "ADSPOWER_URL": "http://local.adspower.com",
+  "ADSPOWER_PORT": "50325",
+  "PAGE_SIZE": 1000,
+  "GLOBAL_SLEEP": 5,
+  "PHANTOM_URL1": "chrome-extension://.../onboarding.html",
+  "PHANTOM_URL2": "chrome-extension://.../popup.html",
+  "DEFAULT_PASS": "",
+  "FILE_RESULTS": "results.txt",
+  "FOLDER_FOR_KEYS": "files/keys/",
+  "DOWNLOADS_FOLDER": "/Users/User/Downloads"
+}
